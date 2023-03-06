@@ -14,13 +14,7 @@ I'm very passionate about new technologies 😎
 - 📫 How to reach me: **papon.nirob@gmail.com**
 - 🌍 Get know about me and some of my works from here [@JustNirob](https://www.facebook.com/justnirob/)
 
-Want to know more about me? [Check out my portfolio.](https://www.nirobhasan.com/)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirobhasan-git&label=Profile%20views&color=0e75b6&style=flat" alt="nirobhasan-git" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirobhasan-git" alt="nirobhasan-git" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nirobhasan_com" target="blank"><img src="https://img.shields.io/twitter/follow/nirobhasan_com?logo=twitter&style=for-the-badge" alt="nirobhasan_com" /></a> </p>
+Want to know more about me? [Check out my personal Website.](https://www.nirobhasan.com/)
 
 ## 📕 Connect with me:
 
@@ -76,17 +70,10 @@ Want to know more about me? [Check out my portfolio.](https://www.nirobhasan.com
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/c4tbrilliantthoughts">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4tbrilliantthoughts&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
-</a>
-
-<a href="https://github.com/c4tbrilliantthoughts">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=c4tbrilliantthoughts&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Sumanth Sanathi's GitHub Stats" />
-</a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirobhasan-git&show_icons=true&locale=en&layout=compact" alt="nirobhasan-git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirobhasan-git&show_icons=true&locale=en" alt="nirobhasan-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirobhasan-git&" alt="nirobhasan-git" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirobhasan-git&label=Profile%20views&color=0e75b6&style=flat" alt="nirobhasan-git" /> </p>
