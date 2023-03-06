@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1920 437" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <clipPath id="clip-GITHUB_MD">
+      <rect width="1920" height="437"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e7396d"/>
+      <stop offset="1" stop-color="#f1b843"/>
+    </linearGradient>
+  </defs>
+  <g id="GITHUB_MD" clip-path="url(#clip-GITHUB_MD)">
+    <rect width="1920" height="437" fill="#fff"/>
+    <g id="Group_104" data-name="Group 104" bx:origin="0.493 0.626">
+      <g id="Group_99" data-name="Group 99" transform="translate(12 -8)">
+        <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="151" cy="152" rx="151" ry="152" transform="translate(-163 93)" fill="#fa0"/>
+        <circle id="Ellipse_25" data-name="Ellipse 25" cx="108.5" cy="108.5" r="108.5" transform="translate(1792 150)" fill="#08d7e8"/>
+        <circle id="Ellipse_27" data-name="Ellipse 27" cx="42.5" cy="42.5" r="42.5" transform="translate(1707 93)" fill="#e7396d"/>
+        <circle id="Ellipse_28" data-name="Ellipse 28" cx="22" cy="22" r="22" transform="translate(1612 26)" fill="#fa0"/>
+        <circle id="Ellipse_26" data-name="Ellipse 26" cx="120.5" cy="120.5" r="120.5" transform="translate(1823 -154)" fill="#8869f8"/>
+        <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="20.5" cy="20" rx="20.5" ry="20" transform="translate(98 87)" fill="#8869f8"/>
+        <circle id="Ellipse_24" data-name="Ellipse 24" cx="14.5" cy="14.5" r="14.5" transform="translate(47 400)" fill="#e7396d"/>
+        <circle id="Ellipse_22" data-name="Ellipse 22" cx="9.5" cy="9.5" r="9.5" transform="translate(0 48)" fill="#279be8"/>
+        <rect id="Rectangle_60" data-name="Rectangle 60" width="9.206" height="9.206" transform="translate(59.701 44.481) rotate(45)" fill="#8869f8"/>
+        <rect id="Rectangle_62" data-name="Rectangle 62" width="5.206" height="5.206" transform="translate(974.49 38.639) rotate(45)" fill="#8869f8"/>
+        <g id="Rectangle_63" data-name="Rectangle 63" transform="translate(1007.319 34.958) rotate(45)" fill="none" stroke="#e7396d" stroke-width="1">
+          <rect width="5.206" height="5.206" stroke="none"/>
+          <rect x="0.5" y="0.5" width="4.206" height="4.206" fill="none"/>
+        </g>
+        <g id="Rectangle_61" data-name="Rectangle 61" transform="translate(1665.899 93) rotate(45)" fill="none" stroke="#8869f8" stroke-width="3">
+          <rect width="14" height="14" stroke="none"/>
+          <rect x="1.5" y="1.5" width="11" height="11" fill="none"/>
+        </g>
+        <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(980 46)" fill="none" stroke="#e7396d" stroke-width="3">
+          <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+          <circle cx="15.5" cy="15.5" r="14" fill="none"/>
+        </g>
+        <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(1022 48)" fill="none" stroke="#f1b843" stroke-width="2">
+          <circle cx="4" cy="4" r="4" stroke="none"/>
+          <circle cx="4" cy="4" r="3" fill="none"/>
+        </g>
+        <g id="Polygon_53" data-name="Polygon 53" transform="translate(155.78 124.139) rotate(30)" fill="none">
+          <path d="M10,0,20,17H0Z" stroke="none"/>
+          <path d="M 10 5.916919708251953 L 5.245246887207031 14 L 14.75475311279297 14 L 10 5.916919708251953 M 10 0 L 20 17 L 0 17 L 10 0 Z" stroke="none" fill="#08d7e8"/>
+        </g>
+        <g id="Polygon_54" data-name="Polygon 54" transform="translate(1018 72.639) rotate(30)" fill="none">
+          <path d="M8.5,0,17,14H0Z" stroke="none"/>
+          <path d="M 8.5 5.780581474304199 L 5.331067085266113 11 L 11.66893196105957 11 L 8.5 5.780581474304199 M 8.5 0 L 17 14 L 0 14 L 8.5 0 Z" stroke="none" fill="#08d7e8"/>
+        </g>
+      </g>
+      <g id="Group_101" data-name="Group 101" transform="translate(16317.236 16059)">
+        <path id="Intersection_2" data-name="Intersection 2" d="M88.517,135.334c0-2.332.089-10.009.089-19.53,0-6.64-2.27-10.984-4.814-13.182,15.8-1.765,32.375-7.784,32.375-35.132a27.546,27.546,0,0,0-7.286-19.114c.727-1.8,3.155-9.033-.709-18.838,0,0-5.949-1.914-19.485,7.3a66.946,66.946,0,0,0-35.514-.009c-13.546-9.211-19.5-7.3-19.5-7.3-3.857,9.8-1.428,17.038-.692,18.838a27.6,27.6,0,0,0-7.3,19.113c0,27.278,16.559,33.386,32.3,35.185-2.03,1.782-3.865,4.921-4.5,9.522-4.042,1.826-14.317,4.965-20.647-5.913,0,0-3.741-6.835-10.859-7.34,0,0-6.923-.088-.479,4.326,0,0,4.654,2.19,7.872,10.417,0,0,4.167,13.848,23.892,9.548.035,5.939.1,10.417.1,12.11,0,1.888-1.295,4.087-4.84,3.431a70.9,70.9,0,1,1,44.883-.009,6.724,6.724,0,0,1-1.282.132A3.361,3.361,0,0,1,88.517,135.334Z" transform="translate(-15428.156 -16013.428)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="HI_I_M" data-name="HI I'M" transform="translate(908 244)" fill="#2f2c43" font-size="40" font-family="ø" style="white-space: pre;"><tspan x="0" y="0">HI I'M</tspan></text>
+      <text id="SUMANTH_SANATHI" data-name="NIROB HASAN" style="white-space: pre;" font-size="80" font-family="ø" fill="#2f2c43" x="690.594" y="336.029"><tspan x="690.594" y="336.029" style="font-size: 80px; word-spacing: 0px;">NIROB HASAN</tspan></text>
+    </g>
+  </g>
+</svg>
