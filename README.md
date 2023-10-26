@@ -64,6 +64,6 @@ Want to know more about me? [Check out my personal Website.](https://www.nirobha
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algaddafy&show_icons=true&locale=en" alt="algaddafy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algaddafy&" alt="algaddafy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algaddafy" alt="algaddafy" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algaddafy&label=Profile%20views&color=0e75b6&style=flat" alt="algaddafy" /> </p>
