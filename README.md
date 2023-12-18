@@ -9,10 +9,10 @@
 I'm very passionate about new technologies 😎
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning React Native, NodeJs, VFX 💻
-- 💬 Ask me about C, PHP, Laravel, Java, JavaScript, React Native, NodeJs, LAMP 📱
+- 🌱 I’m currently learning ReactJS, React Native 💻
+- 💬 Ask me about C, PHP, Laravel, Java, JavaScript, React, LAMP 📱
 - 📫 How to reach me: **papon.nirob@gmail.com**
-- 🌍 Get know about me and some of my works from here [@JustNirob](https://www.facebook.com/justnirob/)
+- 🌍 Get know about me and some of my works from here [@Md.Al-Gaddafy](https://www.linkedin.com/in/algaddafy/)
 
 Want to know more about me? [Check out my personal Website.](https://www.nirobhasan.com/)
 
